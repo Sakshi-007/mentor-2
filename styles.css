@@ -1,0 +1,139 @@
+
+section{
+  margin:0 7% 5%;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family:"Ubuntu";
+  line-height: 1.5;
+  font-weight: 900;
+  color: #070439;
+}
+.cta h1{
+  font-family:"Ubuntu";
+
+  line-height: 1.5;
+  font-weight: 900;
+  color: #F8F8FE;
+}
+.bg-3 h1{
+  font-family:"Ubuntu";
+
+  line-height: 1.5;
+  font-weight: 900;
+  color: #F8F8FE;
+}
+.bg-3 p{
+  font-family: Montserrat;
+  font-stretch: ultra-expanded;
+  font-weight: 500;
+    line-height: 2;
+    color: #F8F8FE;
+
+}
+.bg-3 i{
+  color: #F8F8FE;
+}
+p{
+font-family: Montserrat;
+font-stretch: expanded;
+font-weight: 600;
+  line-height: 2;
+  color: #585989;
+}
+.cta p{
+  font-family: Montserrat;
+  font-stretch: ultra-expanded;
+  font-weight: 500;
+    line-height: 2;
+    color: #F8F8FE;
+}
+.rr{
+  padding:5% 0;
+}
+.pp{
+  width:90%;
+}
+/* introduction */
+li{
+  color: grey;
+  font-family:"Ubuntu";
+  font-size: 100% ;
+}
+.navbar{
+  padding-top: 2%;
+  padding-left: 0;
+  padding-right: 0;
+}
+.img1{
+max-width:90%;
+padding-right:  7%;
+float: right;
+}
+.intro-c1{
+  margin: auto ;
+}
+.bttn{
+  padding: 3.5% 25%;
+}
+
+/* more description */
+.img2{
+  width:100%;
+}
+.bg-1{
+  padding: 5% 0 0.1%;
+  background-color: #F8F8FE;
+  margin: 0;
+}
+.xd{
+  color: #3c9f8f;
+  padding-bottom: 1.5%;
+  border-bottom: solid 1.5px  #3c9f8f;
+}
+.testim{
+
+  margin: 7% 0;
+  font-size: 80%;
+  width: 67%;
+  padding: 5%;
+  background-color: white;
+  border-radius: 4%;
+  line-height: 2;
+}
+.details{
+font-size: 80% ;
+}
+.avt{
+  border-radius: 90%;
+  float: left;
+  max-width: 15%;
+  padding-right: 2%;
+}
+/* cta-section */
+.bg-2{
+    padding: 5% 0 0.1%;
+    margin: 0;
+  background-color: #585989;
+
+}
+/* ending */
+.bg-3{
+  padding: 5% 0 1%;
+  margin: 0;
+background-color: #070439;
+}
+.pd{
+   margin: 15% 3%;
+  font-size: 15px;
+  border: 1px solid;
+  padding:3%;
+  border-radius: 100%;
+  border-color: #ebfbff;
+}
+.img3{
+max-width:90%;
+margin: 10%;
+}
+.p0{
+  padding-left: 0;
+}
